@@ -1,0 +1,21 @@
+{
+  "name": "01-state",
+  "version": "0.0.1",
+  "description": "primeros ejercicios de programacion funcional",
+  "main": "lowercaser.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "functional",
+    "funcional"
+  ],
+  "author": "Rodrigo Fuenzalida",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.1.0"
+  }
+}
