@@ -1,0 +1,17 @@
+{
+  "name": "00-apply-discount",
+  "version": "1.0.0",
+  "description": "Ejercicio-0 apply-discount",
+  "main": "applyDiscount.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Nadia Tapia",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}

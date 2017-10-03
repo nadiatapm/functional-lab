@@ -1,0 +1,14 @@
+{
+  "name": "01-serialize-user",
+  "version": "1.0.0",
+  "description": "ejercicio-2 serialize-user",
+  "main": "serializeUser.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Nadia Tapia",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
