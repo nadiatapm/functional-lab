@@ -1,7 +1,7 @@
 {
   "name": "00-apply-discount",
   "version": "1.0.0",
-  "description": "Ejercicio-0 apply-discount",
+  "description": "Ejercicio-1 apply-Discount",
   "main": "applyDiscount.js",
   "directories": {
     "test": "test"
